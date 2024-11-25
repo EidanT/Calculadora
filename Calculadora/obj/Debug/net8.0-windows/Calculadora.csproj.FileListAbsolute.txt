@@ -1,0 +1,16 @@
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.exe
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.deps.json
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.runtimeconfig.json
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.dll
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.pdb
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.GenerateResource.cache
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfoInputs.cache
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfo.cs
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.dll
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\obj\Debug\net8.0-windows\refint\Calculadora.dll
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.pdb
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.genruntimeconfig.cache
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\obj\Debug\net8.0-windows\ref\Calculadora.dll
+c:\Users\Eidan\Desktop\Calculadora\Calculadora\obj\Debug\net8.0-windows\CalculadoraApp.Form1.resources
