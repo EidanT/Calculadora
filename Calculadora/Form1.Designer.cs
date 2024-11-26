@@ -30,30 +30,22 @@
             this.splitContainerMain.SuspendLayout();
             this.SuspendLayout();
 
-            // 
             // splitContainerMain
-            // 
             this.splitContainerMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.splitContainerMain.Location = new System.Drawing.Point(0, 0);
             this.splitContainerMain.Name = "splitContainerMain";
 
-            // 
             // splitContainerMain.Panel1
-            // 
             this.splitContainerMain.Panel1.Controls.Add(this.listBoxHistory);
 
-            // 
             // splitContainerMain.Panel2
-            // 
             this.splitContainerMain.Panel2.Controls.Add(this.tableLayoutPanelButtons);
             this.splitContainerMain.Panel2.Controls.Add(this.txtDisplay);
             this.splitContainerMain.Size = new System.Drawing.Size(800, 450);
             this.splitContainerMain.SplitterDistance = 200; // Ancho inicial del panel izquierdo
             this.splitContainerMain.TabIndex = 0;
 
-            // 
             // listBoxHistory
-            // 
             this.listBoxHistory.Dock = System.Windows.Forms.DockStyle.Fill;
             this.listBoxHistory.Font = new System.Drawing.Font("Segoe UI", 10F);
             this.listBoxHistory.FormattingEnabled = true;
@@ -63,9 +55,7 @@
             this.listBoxHistory.Size = new System.Drawing.Size(200, 450);
             this.listBoxHistory.TabIndex = 0;
 
-            // 
             // txtDisplay
-            // 
             this.txtDisplay.Dock = System.Windows.Forms.DockStyle.Top;
             this.txtDisplay.Font = new System.Drawing.Font("Segoe UI", 14F);
             this.txtDisplay.Location = new System.Drawing.Point(0, 0);
@@ -74,9 +64,7 @@
             this.txtDisplay.Size = new System.Drawing.Size(596, 32);
             this.txtDisplay.TabIndex = 0;
 
-            // 
             // tableLayoutPanelButtons
-            // 
             this.tableLayoutPanelButtons.ColumnCount = 4;
             this.tableLayoutPanelButtons.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanelButtons.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
@@ -94,9 +82,7 @@
             this.tableLayoutPanelButtons.Size = new System.Drawing.Size(596, 418);
             this.tableLayoutPanelButtons.TabIndex = 1;
 
-            // 
             // Form1
-            // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
